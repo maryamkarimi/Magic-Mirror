@@ -1,0 +1,963 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="false">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8af59bb8-9835-4f4a-8155-1274290b9bfe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Reminders/guest_reminders.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calendar.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Calendar.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalendarUI.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/CalendarUI.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GreetingUI.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/GreetingUI.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reminders/maryam_reminders.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Reminders/maryam_reminders.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reminders/test_reminders.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/UI.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI.h" beforeDir="false" afterPath="$PROJECT_DIR$/UI.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Weather.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Weather.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherUI.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/WeatherUI.cpp" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1249182450">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cpp" value="4" />
+          <entry key="h" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="ObjectiveC" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cpp" value="88" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="ObjectiveC" value="88" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.cidr.testingFrameworks.usages" />
+    </session>
+    <session id="-863742636">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="20" />
+          <entry key="project.open.time.0" value="8" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="4" />
+          <entry key="project.open.time.4" value="5" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Makefile" value="5" />
+          <entry key="bmp" value="18" />
+          <entry key="config" value="4" />
+          <entry key="cpp" value="151" />
+          <entry key="h" value="70" />
+          <entry key="json" value="2" />
+          <entry key="txt" value="54" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="18" />
+          <entry key="JSON" value="2" />
+          <entry key="ObjectiveC" value="221" />
+          <entry key="PLAIN_TEXT" value="63" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Makefile" value="8" />
+          <entry key="cpp" value="13082" />
+          <entry key="h" value="1090" />
+          <entry key="txt" value="1026" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Doxygen file" value="56" />
+          <entry key="ObjectiveC" value="14116" />
+          <entry key="PLAIN_TEXT" value="1034" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CalendarUI.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CalendarUI.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="2" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Calendar.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Weather.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="41" lean-forward="true" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Calendar.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-321">
+              <caret line="92" column="23" selection-start-line="92" selection-start-column="23" selection-end-line="92" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dox.config">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Reminders/jordan_reminders.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GreetingUI.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1035">
+              <caret line="69" selection-start-line="69" selection-end-line="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Reminder.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="249">
+              <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Time.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="33" selection-start-line="33" selection-end-line="36" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>greeting</find>
+      <find>FONT</find>
+      <find>firstp</find>
+      <find>calendar</find>
+      <find>reminders</find>
+      <find>fir</find>
+      <find>reminde</find>
+      <find>guest</find>
+      <find>to no</find>
+      <find>startwe</find>
+      <find>dweather</find>
+      <find>setup</find>
+      <find>startwea</find>
+      <find>loc</find>
+      <find>region</find>
+      <find>startweather</find>
+      <find>GTIME</find>
+      <find>GWEATHER</find>
+      <find>cout</find>
+      <find>gtimeloc</find>
+      <find>gtime</find>
+      <find>gweather</find>
+      <find>gtim</find>
+      <find>weather</find>
+      <find>weatherloc</find>
+      <find>perform</find>
+      <find>updateui</find>
+      <find>updateu</find>
+      <find>EXIT</find>
+      <find>update</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Maryam Karimi &lt;mkarimif@uwo.ca&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test.cpp" />
+        <option value="$PROJECT_DIR$/WeatherParser.cpp" />
+        <option value="$PROJECT_DIR$/reminder.txt" />
+        <option value="$PROJECT_DIR$/Reminders/reminder.txt" />
+        <option value="$PROJECT_DIR$/Reminders/test.txt" />
+        <option value="$PROJECT_DIR$/Reminders/gerrit_reminders.txt" />
+        <option value="$PROJECT_DIR$/Reminders/jordan_reminders.txt" />
+        <option value="$PROJECT_DIR$/Greeting.cpp" />
+        <option value="$PROJECT_DIR$/Greeting.h" />
+        <option value="$PROJECT_DIR$/Makefile" />
+        <option value="$PROJECT_DIR$/WeatherUI.h" />
+        <option value="$PROJECT_DIR$/ReminderUI.h" />
+        <option value="$PROJECT_DIR$/Time.cpp" />
+        <option value="$PROJECT_DIR$/Time.h" />
+        <option value="$PROJECT_DIR$/TimeUI.cpp" />
+        <option value="$PROJECT_DIR$/TimeUI.h" />
+        <option value="$PROJECT_DIR$/Reminder.cpp" />
+        <option value="$PROJECT_DIR$/GreetingUI.h" />
+        <option value="$PROJECT_DIR$/Reminder.h" />
+        <option value="$PROJECT_DIR$/ReminderUI.cpp" />
+        <option value="$PROJECT_DIR$/CalendarUI.h" />
+        <option value="$PROJECT_DIR$/README.txt" />
+        <option value="$PROJECT_DIR$/GreetingUI.cpp" />
+        <option value="$PROJECT_DIR$/Reminders/TA_reminders.txt" />
+        <option value="$PROJECT_DIR$/Reminders/test_reminders.txt" />
+        <option value="$PROJECT_DIR$/Reminders/guest_reminders.txt" />
+        <option value="$PROJECT_DIR$/WeatherUI.cpp" />
+        <option value="$PROJECT_DIR$/Weather.cpp" />
+        <option value="$PROJECT_DIR$/UI.h" />
+        <option value="$PROJECT_DIR$/UI.cpp" />
+        <option value="$PROJECT_DIR$/Reminders/maryam_reminders.txt" />
+        <option value="$PROJECT_DIR$/Calendar.cpp" />
+        <option value="$PROJECT_DIR$/CalendarUI.cpp" />
+        <option value="$PROJECT_DIR$/Calendar.h" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="41" />
+    <option name="y" value="45" />
+    <option name="width" value="1198" />
+    <option name="height" value="806" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="group6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="group6" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/WeatherIcons" />
+      <recent name="$PROJECT_DIR$/Fonts" />
+      <recent name="$PROJECT_DIR$/Reminders" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8af59bb8-9835-4f4a-8155-1274290b9bfe" name="Default Changelist" comment="" />
+      <created>1541647857513</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541647857513</updated>
+      <workItem from="1541647858699" duration="2783000" />
+      <workItem from="1542761821666" duration="987000" />
+      <workItem from="1542768837726" duration="552000" />
+      <workItem from="1542770704580" duration="51000" />
+      <workItem from="1543383322270" duration="825000" />
+      <workItem from="1543384244118" duration="10967000" />
+      <workItem from="1543442686138" duration="7901000" />
+      <workItem from="1543453592189" duration="723000" />
+      <workItem from="1543463856335" duration="5956000" />
+      <workItem from="1543471227274" duration="14000" />
+      <workItem from="1543523737951" duration="1629000" />
+      <workItem from="1543531827949" duration="4131000" />
+      <workItem from="1543536319271" duration="16662000" />
+      <workItem from="1543882761385" duration="2954000" />
+      <workItem from="1543889023719" duration="5598000" />
+      <workItem from="1543950263265" duration="405000" />
+      <workItem from="1543953408920" duration="243000" />
+      <workItem from="1544065251049" duration="2733000" />
+      <workItem from="1544124905514" duration="1390000" />
+      <workItem from="1544127407746" duration="2872000" />
+      <workItem from="1544130479106" duration="976000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added the BMPs to this folder. If you are using new BMP's, add them here">
+      <created>1543440352654</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1543440352654</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added the weather icons to this folder">
+      <created>1543440381239</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1543440381239</updated>
+    </task>
+    <task id="LOCAL-00003" summary="-">
+      <created>1543440933847</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1543440933847</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Reminder Folder">
+      <created>1543441083664</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1543441083664</updated>
+    </task>
+    <task id="LOCAL-00005" summary="-">
+      <created>1543441153758</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1543441153758</updated>
+    </task>
+    <task id="LOCAL-00006" summary="-">
+      <created>1543441229494</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1543441229494</updated>
+    </task>
+    <task id="LOCAL-00007" summary="-">
+      <created>1543441555548</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1543441555548</updated>
+    </task>
+    <task id="LOCAL-00008" summary="-">
+      <created>1543441669400</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1543441669400</updated>
+    </task>
+    <task id="LOCAL-00009" summary="-">
+      <created>1543441807602</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1543441807602</updated>
+    </task>
+    <task id="LOCAL-00010" summary="-">
+      <created>1543441886686</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1543441886686</updated>
+    </task>
+    <task id="LOCAL-00011" summary="-">
+      <created>1543441902336</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1543441902336</updated>
+    </task>
+    <task id="LOCAL-00012" summary="-">
+      <created>1543442024135</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1543442024135</updated>
+    </task>
+    <task id="LOCAL-00013" summary="-">
+      <created>1543442037991</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1543442037991</updated>
+    </task>
+    <task id="LOCAL-00014" summary="-">
+      <created>1543442588432</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1543442588432</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Changed the weather icons directory and &quot;Celsius&quot; to &quot;C&quot; because Celsius is longer and isn't displayed properly with some forecasts like &quot;mist&quot;">
+      <created>1543442669809</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1543442669809</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Added some comments">
+      <created>1543444349679</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1543444349679</updated>
+    </task>
+    <task id="LOCAL-00017" summary="more comments added">
+      <created>1543450607825</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1543450607825</updated>
+    </task>
+    <task id="LOCAL-00018" summary="greeting class - needs more work">
+      <created>1543453275796</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1543453275796</updated>
+    </task>
+    <task id="LOCAL-00019" summary="a couple tags changed">
+      <created>1543453364798</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1543453364798</updated>
+    </task>
+    <task id="LOCAL-00020" summary="comments added">
+      <created>1543453388487</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1543453388487</updated>
+    </task>
+    <task id="LOCAL-00021" summary="-">
+      <created>1543453724257</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1543453724257</updated>
+    </task>
+    <task id="LOCAL-00022" summary="-">
+      <created>1543464114313</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1543464114313</updated>
+    </task>
+    <task id="LOCAL-00023" summary="-">
+      <created>1543465773045</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1543465773045</updated>
+    </task>
+    <task id="LOCAL-00024" summary="-">
+      <created>1543466465609</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1543466465609</updated>
+    </task>
+    <task id="LOCAL-00025" summary="-">
+      <created>1543466764040</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1543466764040</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Added a couple line to check the input for corners (only 0-3 are accepted)">
+      <created>1543469637950</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1543469637950</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Added Greeting class - still needs a UI">
+      <created>1543470908204</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1543470908204</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Completed the greeting UI - displays welcome for 3 seconds when u sign in">
+      <created>1543536051309</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1543536051309</updated>
+    </task>
+    <task id="LOCAL-00029" summary="-">
+      <created>1543537305288</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1543537305288</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Added Greeting">
+      <created>1543537359969</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1543537359969</updated>
+    </task>
+    <task id="LOCAL-00031" summary="-">
+      <created>1543537389055</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1543537389055</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Added Greeting:">
+      <created>1543538099591</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1543538099591</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Added destructors">
+      <created>1543538142218</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1543538142218</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Added destructors">
+      <created>1543538204249</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1543538204249</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Calendar added!">
+      <created>1543550976924</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1543550976924</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Merge branch 'master' of https://repo.csd.uwo.ca/scm/compsci3307_f2018/group6&#10;&#10;# Conflicts:&#10;#&#9;CalendarUI.cpp">
+      <created>1543551442234</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1543551442234</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Calendar added">
+      <created>1543551496211</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1543551496211</updated>
+    </task>
+    <task id="LOCAL-00038" summary="CalendarUI added">
+      <created>1543551514576</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1543551514576</updated>
+    </task>
+    <task id="LOCAL-00039" summary="-">
+      <created>1543553431912</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1543553431912</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="72491000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="41" y="45" width="1198" height="806" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49861497" visible="true" weight="0.3434256" />
+      <window_info id="Structure" order="1" sideWeight="0.50138503" side_tool="true" weight="0.35050505" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.37311384" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49928468" weight="0.3130194" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007153" side_tool="true" weight="0.2807229" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32963988" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added the BMPs to this folder. If you are using new BMP's, add them here" />
+    <MESSAGE value="Added the weather icons to this folder" />
+    <MESSAGE value="Reminder Folder" />
+    <MESSAGE value="Changed the weather icons directory and &quot;Celsius&quot; to &quot;C&quot; because Celsius is longer and isn't displayed properly with some forecasts like &quot;mist&quot;" />
+    <MESSAGE value="Added some comments" />
+    <MESSAGE value="more comments added" />
+    <MESSAGE value="greeting class - needs more work" />
+    <MESSAGE value="a couple tags changed" />
+    <MESSAGE value="comments added" />
+    <MESSAGE value="Added a couple line to check the input for corners (only 0-3 are accepted)" />
+    <MESSAGE value="Added Greeting class - still needs a UI" />
+    <MESSAGE value="Completed the greeting UI - displays welcome for 3 seconds when u sign in" />
+    <MESSAGE value="Added Greeting" />
+    <MESSAGE value="Added Greeting:" />
+    <MESSAGE value="Added destructors" />
+    <MESSAGE value="Added Calendar!" />
+    <MESSAGE value="Calendar added!" />
+    <MESSAGE value="Merge branch 'master' of https://repo.csd.uwo.ca/scm/compsci3307_f2018/group6&#10;&#10;# Conflicts:&#10;#&#9;CalendarUI.cpp" />
+    <MESSAGE value="Calendar added" />
+    <MESSAGE value="CalendarUI added" />
+    <MESSAGE value="-" />
+    <option name="LAST_COMMIT_MESSAGE" value="-" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Users/test.txt" />
+    <entry file="file://$PROJECT_DIR$/WeatherIcons/01n.bmp">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeatherIcons/03d.bmp">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeatherIcons/09n.bmp">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeatherIcons/10d.bmp">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeatherIcons/04n.bmp">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeatherIcons/04d.bmp">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeatherIcons/09d.bmp">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeatherIcons/10n.bmp">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeatherIcons/11n.bmp">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeatherIcons/50d.bmp">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vscode/settings.json" />
+    <entry file="file://$PROJECT_DIR$/WeatherParser.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="2" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NeededChanges.txt" />
+    <entry file="file://$PROJECT_DIR$/WeatherUI.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GreetingUI.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Time.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="27" lean-forward="true" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Reminder.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" selection-start-line="24" selection-end-line="24" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReminderUI.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Users/TA.txt" />
+    <entry file="file://$PROJECT_DIR$/ReminderUI.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="150" selection-start-line="150" selection-end-line="150" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Users/a.txt" />
+    <entry file="file://$PROJECT_DIR$/Users/22.txt" />
+    <entry file="file://$PROJECT_DIR$/Users/1.txt" />
+    <entry file="file://$PROJECT_DIR$/Users/2.txt" />
+    <entry file="file://$PROJECT_DIR$/Reminders/test_reminders.txt" />
+    <entry file="file://$PROJECT_DIR$/Users/maryam.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weather.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeatherParser.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1335">
+          <caret line="89" column="117" selection-start-line="89" selection-start-column="117" selection-end-line="89" selection-end-column="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TimeUI.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TimeUI.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UI.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="64" column="10" lean-forward="true" selection-start-line="64" selection-start-column="10" selection-end-line="64" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UI.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="2" lean-forward="true" selection-start-line="33" selection-start-column="2" selection-end-line="33" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Users/ali.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeatherUI.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="150" column="36" selection-start-line="150" selection-start-column="36" selection-end-line="150" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Reminders/maryam_reminders.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Reminders/TA_reminders.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Reminders/guest_reminders.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Reminders/gerrit_reminders.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Reminders/jordan_reminders.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CalendarUI.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CalendarUI.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Calendar.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Calendar.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-321">
+          <caret line="92" column="23" selection-start-line="92" selection-start-column="23" selection-end-line="92" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dox.config">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GreetingUI.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Reminder.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Time.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" selection-start-line="33" selection-end-line="36" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weather.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="41" lean-forward="true" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
